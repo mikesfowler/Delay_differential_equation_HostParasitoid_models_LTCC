@@ -1,5 +1,5 @@
 # Delay_differential_equation_HostParasitoid_models_LTCC
-Matlab code to simulate delay differential equation, stage-structured, Host-Parasitoid models under long-term environmental change.
+Matlab code to simulate (stochastic) delay differential equation, stage-structured, Host-Parasitoid models under long-term environmental change.
 
 Temperature drives changes in Host & Parasitoid larval development time,
 reduce Parasitoid attack rate and increase Parasitoid larval mortality 
